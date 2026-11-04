@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://kansas-city.lemurianstudios.com/sitemap.xml
